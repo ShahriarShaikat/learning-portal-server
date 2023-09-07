@@ -48,6 +48,27 @@
       "role": "student",
       "name": "Arif",
       "id": 7
+    },
+    {
+      "email": "shahriarshaikat0@gmail.com",
+      "password": "$2a$10$fO8MEMZY9o3QdLQWHWtBXO5nSqVRpLkeSqzWVHOb3gy4F1L4rbJ7W",
+      "role": "student",
+      "name": "md shaikat",
+      "id": 8
+    },
+    {
+      "email": "shahriarshaikat7@gmail.com",
+      "password": "$2a$10$dNNfMBYvQzLrN1jxkKXVB.iO2SJC2HhEuAg.rqjOtSQoK7nOz/h52",
+      "role": "student",
+      "name": "md shaikat",
+      "id": 9
+    },
+    {
+      "email": "shahriarshaikat11@gmail.com",
+      "password": "$2a$10$zXfOveTBheduA38QlQUgLuPWeDH1BnZWYwVNf2Cc3x1LVPoZA6jaa",
+      "role": "student",
+      "name": "md shaikat",
+      "id": 10
     }
   ],
   "videos": [
