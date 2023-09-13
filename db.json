@@ -1,74 +1,88 @@
 {
   "users": [
     {
-      "email": "admin@learnwithsumit.com",
-      "password": "$2a$10$/TDPCTU28mFzKnSsW2pHSu512mpMKxLf8eiPbcTFLSNL87tbZBp3W",
+      "email": "admin@gmail.com",
+      "password": "$2a$10$RzsbdiAADSBf.yeqsQaHcexOBmlLE52py5wGEqf8N.DI0GNwqcvWS",
       "role": "admin",
-      "name": "LWS Admin",
+      "name": "MR. Admin",
       "id": 1
     },
     {
-      "email": "saad.hasan@learnwithsumit.com",
-      "password": "$2a$10$4iJEmSkM1Dq6WMRb0SuJeeic1SEB9TrH3gw5IT441Adox/ZZXj2Ae",
+      "email": "shaikat@gmail.com",
+      "password": "$2a$10$DDKVVoQOAeOf4Er42RJuTuKbXo.5FfzFZslpNn7N4Vw4bCqXR0DMK",
       "role": "student",
-      "name": "Saad Hasan",
+      "name": "Shahriar Shaikat",
       "id": 2
     },
     {
-      "email": "akash.ahmed@learnwithsumit.com",
-      "password": "$2a$10$TNsYpL6ffKBrupNNvdJlleJlgIkp1C1xQJCbiv7HAl5Ggs.kucie2",
+      "email": "shovon@gmail.com",
+      "password": "$2a$10$DDKVVoQOAeOf4Er42RJuTuKbXo.5FfzFZslpNn7N4Vw4bCqXR0DMK",
       "role": "student",
-      "name": "Akash Ahmed",
+      "name": "Shovon Roy",
       "id": 3
     },
     {
-      "email": "md.salahuddin@learnwithsumit.com",
-      "password": "$2a$10$dcWjzIi4mLAERlWE4nfJW.1/mvC9FXqZU8A2V1rPlsqIrP3kWa8PG",
+      "email": "dipto@gmail.com",
+      "password": "$2a$10$DDKVVoQOAeOf4Er42RJuTuKbXo.5FfzFZslpNn7N4Vw4bCqXR0DMK",
       "role": "student",
-      "name": "Mohammad Salahuddin",
+      "name": "Dipto Sarkar",
       "id": 4
     },
     {
-      "email": "ferdous.shohag@learnwithsumit.com",
-      "password": "$2a$10$IZ6eXNauYSqMhl38Wc46texV2vjGZz.Zl66j7hrnW6ZDSDcMlPWeu",
+      "email": "midul@gmail.com",
+      "password": "$2a$10$DDKVVoQOAeOf4Er42RJuTuKbXo.5FfzFZslpNn7N4Vw4bCqXR0DMK",
       "role": "student",
-      "name": "Ferdous",
+      "name": "Midul Khan",
       "id": 5
     },
     {
-      "email": "riyadh.vai@learnwithsumit.com",
-      "password": "$2a$10$e4XPY48UpqmAj8teZ2je8.qd5AEk6hWm5PQwDoJsCsE91qlDPJx1G",
+      "email": "shawon@gmail.com",
+      "password": "$2a$10$DDKVVoQOAeOf4Er42RJuTuKbXo.5FfzFZslpNn7N4Vw4bCqXR0DMK",
       "role": "student",
-      "name": "Riyadh",
+      "name": "Nrs Shawon",
       "id": 6
     },
     {
-      "email": "arif.almas@learnwithsumit.com",
-      "password": "$2a$10$NN4pXB4tBMw.ySrMDPMymepSGDdcvKzx/RjNCrdNTENOFVLWCWGOi",
+      "email": "fahim@gmail.com",
+      "password": "$2a$10$DDKVVoQOAeOf4Er42RJuTuKbXo.5FfzFZslpNn7N4Vw4bCqXR0DMK",
       "role": "student",
-      "name": "Arif",
+      "name": "Fahim Ahmed",
       "id": 7
     },
     {
-      "email": "shahriarshaikat0@gmail.com",
-      "password": "$2a$10$fO8MEMZY9o3QdLQWHWtBXO5nSqVRpLkeSqzWVHOb3gy4F1L4rbJ7W",
+      "email": "durjoy@gmail.com",
+      "password": "$2a$10$DDKVVoQOAeOf4Er42RJuTuKbXo.5FfzFZslpNn7N4Vw4bCqXR0DMK",
       "role": "student",
-      "name": "md shaikat",
+      "name": "Durjoy Bardhan",
       "id": 8
     },
     {
-      "email": "shahriarshaikat7@gmail.com",
-      "password": "$2a$10$dNNfMBYvQzLrN1jxkKXVB.iO2SJC2HhEuAg.rqjOtSQoK7nOz/h52",
+      "email": "asif@gmail.com",
+      "password": "$2a$10$DDKVVoQOAeOf4Er42RJuTuKbXo.5FfzFZslpNn7N4Vw4bCqXR0DMK",
       "role": "student",
-      "name": "md shaikat",
+      "name": "Asif Ahmed",
       "id": 9
     },
     {
-      "email": "shahriarshaikat11@gmail.com",
-      "password": "$2a$10$zXfOveTBheduA38QlQUgLuPWeDH1BnZWYwVNf2Cc3x1LVPoZA6jaa",
+      "email": "sayem@gmail.com",
+      "password": "$2a$10$DDKVVoQOAeOf4Er42RJuTuKbXo.5FfzFZslpNn7N4Vw4bCqXR0DMK",
       "role": "student",
-      "name": "md shaikat",
+      "name": "MR. Sayem",
       "id": 10
+    },
+    {
+      "email": "ashik@gmail.com",
+      "password": "$2a$10$DDKVVoQOAeOf4Er42RJuTuKbXo.5FfzFZslpNn7N4Vw4bCqXR0DMK",
+      "role": "student",
+      "name": "Ashik Mia",
+      "id": 11
+    },
+    {
+      "email": "miltol@gmail.com",
+      "password": "$2a$10$DDKVVoQOAeOf4Er42RJuTuKbXo.5FfzFZslpNn7N4Vw4bCqXR0DMK",
+      "role": "student",
+      "name": "Mr. Milton",
+      "id": 12
     }
   ],
   "videos": [
@@ -76,7 +90,7 @@
       "id": 1,
       "title": "Debounce Function in JavaScript - JavaScript Job Interview question",
       "description": "In this video, I have explained about the debounce function in JavaScript. This is a common question interviewers ask at Job Interviews. If you watch this video carefully, you will understand what is debounce and how to handle it with custom debounce function.",
-      "url": "https://www.youtube.com/embed/dD9O8DnIBj4",
+      "url": "https://www.youtube.com/embed/TppUB5WGz8w",
       "views": "51.2K",
       "duration": "5:30",
       "createdAt": "2023-01-15T15:17:01.727Z"
@@ -85,7 +99,7 @@
       "id": 2,
       "title": "#2 JavaScript Tips and Tricks - JavaScript Job Interview Questions",
       "description": "JavaScript Tips and Tricks - JavaScript Job Interview Questions - Bangla Tutorial \nIn this video, I have shown 8 more JavaScript pro tips that will make a JavaScript Developer's life easier.",
-      "url": "https://www.youtube.com/embed/E9_R88eKcBM",
+      "url": "https://www.youtube.com/embed/tOo9c6SK_do",
       "views": "91.2K",
       "duration": "31:30",
       "createdAt": "2023-02-24T17:59:00.000Z"
@@ -202,9 +216,9 @@
       "title": "Assignment 1 - Implement Debounce Function",
       "createdAt": "2021-01-15T15:17:01.727Z",
       "totalMark": 100,
-      "mark": 0,
+      "mark": 99,
       "repo_link": "https://github.com/Learn-with-Sumit/assignment-1",
-      "status": "pending"
+      "status": "published"
     },
     {
       "id": 2,
